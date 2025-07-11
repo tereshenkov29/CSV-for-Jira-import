@@ -69,3 +69,4 @@ The script generates a CSV file with a semicolon (`;`) as the delimiter and `UTF
 -   **Screenshot URL**: A direct, absolute URL to the screenshot associated with the issue.
 -   **Description**: A detailed description of the issue, with multiple paragraphs joined by newlines.
 -   **Solution**: The recommended solution, including the heading (from `<h4>`) and subsequent paragraphs, joined by newlines.
+-   **Category** (if exists in the report): The column to indicate the category of the issue - Content or Technique
