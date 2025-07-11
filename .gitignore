@@ -1,0 +1,16 @@
+# Virtual Environment
+/venv/
+
+# PyCharm IDE files
+/.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated output files
+*.csv
+
+# Operating System files
+.DS_Store
+Thumbs.db
